@@ -85,7 +85,7 @@ export const ruleProviders: Record<string, RuleProvider> = {
     Applications: {
         type: "http",
         behavior: "classical",
-        format: "text",
+        format: "yaml",
         interval: 86400,
         url: `${CDN_URL}/gh/Loyalsoldier/clash-rules@release/applications.txt`,
         path: "./ruleset/applications.yaml",
