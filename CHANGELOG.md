@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.4.4](https://github.com/powerfullz/override-rules/compare/src-v2.4.3...src-v2.4.4) (2026-06-18)
+
+
+### Chores
+
+- Optimise icons ([052e732](https://github.com/powerfullz/override-rules/commit/052e7321fb8452d121a808e1d6fac30e0c3df122))
+- Update dependencies and remove noisy dependabot ([45f77f5](https://github.com/powerfullz/override-rules/commit/45f77f555bb309b7920300008297ff4b0a88cc27))
+- Bump @typescript/native-preview ([12c53b6](https://github.com/powerfullz/override-rules/commit/12c53b682ff4ab07b77d033ed8fb25e202d7f3df))
+
+
+### Documentation
+
+- Update HOW_TO_CUSTOMISE.md ([e118050](https://github.com/powerfullz/override-rules/commit/e1180506868432fd55bb7538783842b3a0c8e13b))
+
+
+### Other
+
+- Delete AdditionalFilter in rules ([4f899d7](https://github.com/powerfullz/override-rules/commit/4f899d723805f37357f894e9b670fb4a00d1c2d7))
+- 去除不需要的分组 ([ce49f01](https://github.com/powerfullz/override-rules/commit/ce49f01b34129d7b659e702cba6aaa54864d5fa3))
 ## [2.4.3](https://github.com/powerfullz/override-rules/compare/src-v2.4.2...src-v2.4.3) (2026-05-23)
 
 
