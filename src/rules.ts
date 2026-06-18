@@ -4,7 +4,6 @@ const baseRules = [
     `DST-PORT,22,${PROXY_GROUPS.SSH}`,
     `GEOIP,private,DIRECT,no-resolve`,
     `RULE-SET,ADBlock,${PROXY_GROUPS.AD_BLOCK}`,
-    `RULE-SET,AdditionalFilter,${PROXY_GROUPS.AD_BLOCK}`,
     // `RULE-SET,SogouInput,${PROXY_GROUPS.SOGOU_INPUT}`,
     // `DOMAIN-SUFFIX,truthsocial.com,${PROXY_GROUPS.TRUTH_SOCIAL}`,
     `RULE-SET,StaticResources,${PROXY_GROUPS.STATIC_RESOURCES}`,
