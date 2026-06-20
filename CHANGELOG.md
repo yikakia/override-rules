@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.6](https://github.com/powerfullz/override-rules/compare/src-v2.4.5...src-v2.4.6) (2026-06-20)
+
+
+### Other
+
+- 提高 ai 相关的优先级
+
+比如 oaiusercontent 应该和 chatgpt 相关走同样的逻辑 ([ccb4b16](https://github.com/powerfullz/override-rules/commit/ccb4b16255a48e2e7557bc3025f18c12500deec8))
 ## [2.4.5](https://github.com/powerfullz/override-rules/compare/src-v2.4.4...src-v2.4.5) (2026-06-18)
 
 
