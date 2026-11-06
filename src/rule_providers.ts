@@ -89,5 +89,5 @@ export const ruleProviders: Record<string, RuleProvider> = {
         interval: 86400,
         url: `${CDN_URL}/gh/Loyalsoldier/clash-rules@release/applications.txt`,
         path: "./ruleset/applications.yaml",
-    }
+    },
 };

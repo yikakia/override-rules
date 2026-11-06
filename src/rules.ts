@@ -1,7 +1,7 @@
 import { PROXY_GROUPS } from "./constants";
 
 const baseRules = [
-    `DST-PORT,22,${PROXY_GROUPS.SSH}`,
+    `DST-PORT,52034,${PROXY_GROUPS.SSH}`,
     `GEOIP,private,DIRECT,no-resolve`,
     `RULE-SET,ADBlock,${PROXY_GROUPS.AD_BLOCK}`,
     `GEOSITE,category-ai-!cn,${PROXY_GROUPS.AI_SERVICE}`,
