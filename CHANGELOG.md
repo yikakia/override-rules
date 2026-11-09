@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.7](https://github.com/powerfullz/override-rules/compare/src-v2.4.6...src-v2.4.7) (2026-11-09)
+
+
+### Other
+
+- 更新 rules.ts
+
+ssh端口 ([be1d5d2](https://github.com/powerfullz/override-rules/commit/be1d5d2f0e3617ee97c42542c88c6874cf98e6b4))
+- 删除aff ([a80cb27](https://github.com/powerfullz/override-rules/commit/a80cb274dbbc28f4d9f4b2e7c476cb23d36f40f8))
 ## [2.4.6](https://github.com/powerfullz/override-rules/compare/src-v2.4.5...src-v2.4.6) (2026-06-20)
 
 
